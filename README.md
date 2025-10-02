@@ -1,7 +1,3 @@
-# Kyle Tower 👨‍💻
-
-*Professional Coaching & Mentoring for Software Engineers*
-
 <p align="center">
   <a href="https://calendar.app.google/aS6bPSYHKyA9mbdcA" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #007bff; color: #ffffff; text-decoration: none; border-radius: 5px; font-weight: bold;">
     🗓️ Book a Meeting
