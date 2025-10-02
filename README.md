@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://calendar.app.google/aS6bPSYHKyA9mbdcA" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #007bff; color: #ffffff; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    🗓️ Book a Meeting
-  </a>
-</p>
-
----
-
 ## 🚀 Services Offered
 
 I offer personalized coaching, consulting, and mentoring for aspiring and current software engineers. My goal is to help you navigate your career, ace interviews, provide you with personalized connections or leads, and become a more effective developer.
@@ -15,6 +7,12 @@ I offer personalized coaching, consulting, and mentoring for aspiring and curren
 - **📄 Resume & LinkedIn Profile Review:** Optimize your professional profiles to attract recruiters and land more interviews.
 - **🤝 Ongoing Mentorship Program:** A recurring package of sessions to provide continuous support, guidance, and accountability on your software engineering journey.
 - **🎓 Full Stack Software Engineering Bootcamp:** A comprehensive program available in 4, 8, or 12-month tracks. This can be completed self-paced or with dedicated one-on-one support from myself or another software engineering coach of your choice.
+
+<p align="center">
+  <a href="https://calendar.app.google/aS6bPSYHKyA9mbdcA" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #007bff; color: #ffffff; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    🗓️ Book a Meeting
+  </a>
+</p>
 
 ---
 
